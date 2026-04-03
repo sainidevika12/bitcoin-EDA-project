@@ -2,11 +2,14 @@ Bitcoin Price Analysis — Data & UX Case Study
 
 
 Overview
+
 -This project explores historical Bitcoin price data to uncover trends, volatility patterns, and market behavior.
 -The analysis goes beyond numbers to derive actionable insights and product/UX implications for financial platforms.
 
 Problem Statement
+
 Cryptocurrency markets are highly volatile, making it difficult for users to:
+
 -Interpret complex price movements
 -Identify meaningful trends
 -Make informed decisions
@@ -14,18 +17,21 @@ Cryptocurrency markets are highly volatile, making it difficult for users to:
 This project aims to simplify and analyze Bitcoin price behavior to improve understanding and decision-making.
 
 Objectives:
+
 -Analyze Bitcoin closing price trends over time
 -Measure volatility using daily percentage change
 -Compare patterns across monthly, quarterly, and yearly levels
 -Apply transformations (log scaling) to reveal hidden insights
 
 Tools & Technologies:
+
 -Python
 -Pandas, NumPy
 -Matplotlib, Seaborn
 -Plotly (interactive visualizations)
 
 Key Analysis Performed:
+
 1. Price Trend Analysis
 2.Visualized historical closing price
 3.Identified long-term growth patterns
